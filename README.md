@@ -60,6 +60,9 @@ st->op->io->e
 [GitHub官方网站](https://github.com "点击即可进入网站“)
 ## \* 编写无序列表
 
+## 在文章中插入一张图片
+![截图](C:/Users/Administrator/Desktop/1.png)
+
 * 负载均衡
 	* 子级内容A
 		* 子级内容B
