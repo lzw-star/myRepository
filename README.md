@@ -61,7 +61,7 @@ st->op->io->e
 ## \* 编写无序列表
 
 ## 在文章中插入一张图片
-![截图](https://alifei01.cfp.cn/creative/vcg/800/version23/VCG41171554821.jpg)
+![截图](https://www.vcg.com/creative/813508810)
 
 * 负载均衡
 	* 子级内容A
