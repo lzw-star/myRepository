@@ -2,7 +2,9 @@
 
 int main(void)
 {
-	printf("first push function.c");
+	printf("nihao nihaoahahahahahah\n");
+	printf("nihao nihaoahahahahahah\n");
+	printf("nihao nihaoahahahahahah\n");
 	return 0;
 }
 
