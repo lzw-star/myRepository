@@ -43,6 +43,19 @@
 ```
 ```bash
 	sudo apt-get install git #安装git的命令
+```
+
+## \`\`\`flow 流程内容 \`\`\`,绘制流程图
+
+```flow
+st=>start; START
+op=>operation: 操作
+io=>inputoutput: 显示输出
+
+e=>end
+
+st->op->io->e
+```
 
 ## \* 编写无序列表
 
